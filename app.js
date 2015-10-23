@@ -653,7 +653,7 @@ var preguntas = [
                 { 
 
 
-                    pregunta: "¿De los siguientes eventos: ¿Cuál  puede ser una actividad de lavado de activos?", 
+                    pregunta: "De los siguientes eventos: ¿Cuál  puede ser una actividad de lavado de activos?", 
 
 
                     respuestauno: ["respuestauno", 
