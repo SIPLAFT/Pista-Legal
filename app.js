@@ -478,6 +478,7 @@ $("a").click(function (evento) {
                     document.getElementById('cambiar').src = "img/Puntos/12.png";
                     window.location.assign("./index.html#Fin")
                     window.location.reload("./index.html#Fin")
+                    //location.href = "siplaft.github.io/index.html#Fin";
                     break;
 
             }    // } 
