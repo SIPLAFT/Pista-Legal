@@ -477,7 +477,7 @@ $("a").click(function (evento) {
                 case 12:
                     document.getElementById('cambiar').src = "img/Puntos/12.png";
                     window.location.assign("./index.html#Fin")
-                    window.location.reload();
+                    window.location.reload("./index.html#Fin")
                     break;
 
             }    // } 
