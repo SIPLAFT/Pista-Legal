@@ -2,11 +2,11 @@ var preguntas = [
     {
         pregunta: " Indique cuál de los siguientes medios es utilizado dentro de la compañía para reportar una actividad sospechosa: ",
         respuestauno: ["respuestauno",
-                           "Llamar a la línea de emergencia de Servientrega #966",
-                           false],
+                            "Llamar a la línea de emergencia de Servientrega #966",
+                            false],
         respuestados: ["respuestados",
-                           "Comunicarse con el call center de Servientrega",
-                           false],
+                            "Comunicarse con el call center de Servientrega",
+                            false],
         respuestatres: ["respuestatres",
                             "Enviar correo electrónico yoinformo@servientrega.com",
                             true]
@@ -22,18 +22,20 @@ var preguntas = [
         respuestatres: ["respuestatres",
                             "Clientes reportados en la lista Clinton",
                             false]
+
     },
     {
         pregunta: "La circular 011 del 2011, emitida por la superintendencia de Puertos y transporte exige que:",
         respuestauno: ["respuestauno",
                             "Se implemente el SIPLAFT en las empresas de transporte ",
-                            false],
+                            true],
         respuestados: ["respuestados",
                             "Mecanismos de protección de datos personales",
-                            true],
+                            false],
         respuestatres: ["respuestatres",
                             "Respuestas a las peticiones, quejas y recursos",
                             false]
+
     },
     {
         pregunta: "¿Si una empresa que ya no está en funcionamiento, desea ser accionista de una compañía pero se ha detectado que tiene nexos con organizaciones de lavado de activos que debemos hacer?",
@@ -46,6 +48,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                             "Hago caso omiso a la solicitud de la otra compañía",
                             false]
+
     },
     {
         pregunta: "¿Cuál es el primer paso para implementar SIPLAFT ?",
@@ -58,6 +61,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                             "Enviar comunicado a la UIAF",
                             false]
+
     },
     {
         pregunta: "¿Cuáles son los riesgos asociados al LA/FT ?",
@@ -70,6 +74,9 @@ var preguntas = [
         respuestatres: ["respuestatres",
                             "Daño de imagen, reporte ante la UIAF y reporte en lista Clinton",
                         false]
+
+
+
     },
     {
         pregunta: "¿Que son factores de riesgo?",
@@ -82,6 +89,9 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Mecanismos de prevención de la compañía",
                         false]
+
+
+
     },
     {
         pregunta: "¿Cuál es el principal objetivo de implementar SIPLAFT en la compañía?",
@@ -94,6 +104,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Ser una compañía reconocida en el mercado",
                         false]
+
     },
     {
         pregunta: "Uno de los intereses de las organizaciones delincuenciales es:",
@@ -106,6 +117,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Mezclar dinero licito con dinero ilícito",
                         true]
+
     },
     {
         pregunta: "¿Qué es la Financiación del Terrorismo?",
@@ -118,6 +130,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Convenios con entidades gubernamentales",
                         false]
+
     },
     {
         pregunta: "¿Cuáles son delitos fuente de lavado de activos",
@@ -130,6 +143,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         " Trata de personas, secuestro y extorsión",
                         true]
+
     },
     {
         pregunta: "¿Cómo se puede prevenir el delito de lavado de activos?",
@@ -142,6 +156,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         " Todas las anteriores",
                         false]
+
     },
     {
         pregunta: "¿Cuál es el mecanismo idóneo para reportar una posible actividad sospechosa ante la UIAF?",
@@ -154,9 +169,10 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Reporte administrativo Informativo (RAI)",
                         false]
+
     },
     {
-        pregunta: "¿En caso de que le propongan transportar un envío qUe no cumpla con los requisitos mínimos legales exigidos, usted que haria?",
+        pregunta: "¿En caso de que le propongan transportar un envío que no cumpla con los requisitos mínimos legales exigidos, usted que haria?",
         respuestauno: ["respuestauno",
                         "Reportar  por medio del canal establecido por la compañía",
                         true],
@@ -166,7 +182,9 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Informa a un amigo",
                         false]
+
     },
+
     {
         pregunta: "¿Que es la UIAF?",
         respuestauno: ["respuestauno",
@@ -178,6 +196,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Unidad de información y análisis financiero",
                         true]
+
     },
     {
         pregunta: "De las siguientes acciones: ¿Cuál considera que es una operación sospechosa?",
@@ -190,9 +209,10 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Realizar movimientos financieros injustificados ",
                         true]
+
     },
     {
-        pregunta: "¿De los siguientes eventos: ¿Cuál  puede ser una actividad de lavado de activos?",
+        pregunta: "De los siguientes eventos: ¿Cuál  puede ser una actividad de lavado de activos?",
         respuestauno: ["respuestauno",
                         " Transacciones financieras del exterior, sin la verificación de su origen",
                         true],
@@ -202,6 +222,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Vender un carro usado",
                         false]
+
     },
     {
         pregunta: "¿Una de las modalidades de lavado de activos es?",
@@ -214,9 +235,10 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Todas las anteriores",
                         true]
+
     },
     {
-        pregunta: "Si usted acepta Una transferencia bancaria sin conocer el origen de los recursos, podría estar siendo utilizado para:",
+        pregunta: "Si usted acepta una transferencia bancaria sin conocer el origen de los recursos, podría estar siendo utilizado para:",
         respuestauno: ["respuestauno",
                         " Lavado de activos",
                         true],
@@ -226,6 +248,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Recibir un premio",
                         false]
+
     },
     {
         pregunta: "¿Cómo se podría  lavar activos?",
@@ -238,6 +261,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Todas las anteriores",
                         true]
+
     },
     {
         pregunta: "¿Los negocios pueden ser involucrados directa o indirectamente en actividades ilegales con propuestas económicas atractivas?",
@@ -250,6 +274,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Ns/Nr",
                         false]
+
     },
     {
         pregunta: "¿El dinero Ilícito crea escenarios de competencia desleal?",
@@ -262,6 +287,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Ns/Nr",
                         false]
+
     },
     {
         pregunta: "El riesgo de lavado de activos solo afecta a grandes empresas",
@@ -274,6 +300,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Ns/Nr",
                         false]
+
     },
     {
         pregunta: "¿Qué consecuencias le puede traer a una empresa estar involucrada con actividades que promueven el lavado de dinero?",
@@ -286,6 +313,7 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Todas las anteriores",
                         true]
+
     },
     {
         pregunta: "Indique cual es el procedimiento de análisis con clientes, proveedores y/o accionistas:",
@@ -298,7 +326,9 @@ var preguntas = [
         respuestatres: ["respuestatres",
                         "Todas las anteriores",
                         true]
+
     },
+
 ];
 
 $("#pregunta1").text(preguntas[1].pregunta);
